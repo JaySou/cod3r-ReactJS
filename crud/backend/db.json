@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "artur oliveira",
+      "email": "a@coder.com"
+    },
+    {
+      "id": 2,
+      "name": "maria julia",
+      "email": "m@coder.com"
+    },
+    {
+      "name": "Jailson de Souza",
+      "email": "jailson.souza@live.com",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 4
+    }
+  ]
+}
